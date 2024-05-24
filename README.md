@@ -1,5 +1,3 @@
----
-
 Cyber Security & Ethical Hacking Books Repository 
 
 Welcome to the Cyber Security & Ethical Hacking Books Repository!  Here, you'll find a curated collection of comprehensive books covering various aspects of cybersecurity and ethical hacking. Whether you're a beginner looking to dive into the world of cybersecurity or an experienced professional seeking to enhance your knowledge, this repository has something for everyone.
@@ -25,7 +23,5 @@ Welcome to the Cyber Security & Ethical Hacking Books Repository!  Here, you'll 
 - The books provided in this repository are for educational purposes only. Respect the authors' copyrights and use the resources responsibly.
 
 Start your journey into the world of cybersecurity and ethical hacking today! 
-
----
 
 Feel free to adjust the content as needed!
