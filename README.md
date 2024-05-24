@@ -24,7 +24,7 @@ Welcome to the Cyber Security & Ethical Hacking Books Repository!  Here, you'll 
  **Note:**
 - The books provided in this repository are for educational purposes only. Respect the authors' copyrights and use the resources responsibly.
 
-Start your journey into the world of cybersecurity and ethical hacking today! 💻🔐
+Start your journey into the world of cybersecurity and ethical hacking today! 
 
 ---
 
